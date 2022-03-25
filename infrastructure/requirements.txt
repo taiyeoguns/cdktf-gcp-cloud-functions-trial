@@ -1,0 +1,2 @@
+cdktf==0.7.0
+cdktf-cdktf-provider-google==0.3.210
